@@ -1,0 +1,6 @@
+body{background-color: antiquewhite;}
+h1{background-color: darkgrey;color: #fff;}
+a{text-decoration: none ;text-align: center;}
+.btn {border-radius: 0;}
+
+.card{border:solid 1px rgb(136, 136, 136);box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);;}
